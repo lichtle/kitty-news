@@ -226,5 +226,6 @@ footer {
 
   .noticias {
     grid-template-columns: repeat(2, 49%);
+    margin-bottom: 5.2rem;
   }
 }
